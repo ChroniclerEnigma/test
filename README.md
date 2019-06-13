@@ -1,5 +1,4 @@
-git config --global user.name "Chronicler Enigma"
-git config --global user.email "abcbookworm@gmail.com"
+##This is a thing!
+#I'm Not very sure what i want to put here. 
+#I'm not very good at this yet.
 
- git config --global color.ui true
-$ git config --global core.editor emacs
